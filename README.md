@@ -141,9 +141,13 @@ survey: [LINK]."
 - Ignoring CSAT survey results
 
 ## Tools Used
-[HubSpot CRM](https://www.hubspot.com) | 
+[HubSpot](https://www.hubspot.com) | 
 [Zendesk](https://www.zendesk.com) | 
 [Freshdesk](https://www.freshdesk.com) | 
 [Zoho CRM](https://www.zoho.com/crm) | 
 [Notion](https://www.notion.so) | 
 [Slack](https://slack.com)
+
+Also experienced working with proprietary 
+in-house CRM and ticketing systems in 
+high volume Telecom environments.
