@@ -141,10 +141,20 @@ survey: [LINK]."
 - Ignoring CSAT survey results
 
 ## Tools Used
-[HubSpot](https://www.hubspot.com) | 
-[Zendesk](https://www.zendesk.com) | 
-[Freshdesk](https://www.freshdesk.com) | 
-[Zoho CRM](https://www.zoho.com/crm) | 
+
+**Primary CRM:**
+[HubSpot](https://www.hubspot.com) — tickets, 
+workflows, reporting and customer management
+
+**Additional CRM & Ticketing Tools:**
+[Zendesk](https://www.zendesk.com) — tickets, 
+workflows and reporting |
+[Freshdesk](https://www.freshdesk.com) — tickets, 
+workflows and reporting |
+[Zoho CRM](https://www.zoho.com/crm) — tickets, 
+workflows and reporting
+
+**Collaboration & Productivity:**
 [Notion](https://www.notion.so) | 
 [Slack](https://slack.com)
 
